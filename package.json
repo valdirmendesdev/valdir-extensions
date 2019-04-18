@@ -4,6 +4,7 @@
     "description": "My essential extensions pack for development",
     "version": "0.0.2",
     "publisher": "Valdirmendes",
+    "icon": "controls.png",
     "engines": {
         "vscode": "^1.33.0"
     },
