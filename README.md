@@ -59,4 +59,4 @@ This is my favorites extensions for development
 * [TODO List](https://marketplace.visualstudio.com/items?itemName=TzachOvadia.todo-list) - List all action comments (TODO, FIXME, HACK etc) in an easy-to-read list.
 * [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 * [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - Automating the process of writing meaningful log messages.
-* [YAML](marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes and Kedge syntax support.
+* [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes and Kedge syntax support.
