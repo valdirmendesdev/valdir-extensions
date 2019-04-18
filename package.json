@@ -10,6 +10,13 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "url": "https://github.com/valdirmendesgt/valdir-extensions"
+    },
+    "homepage": "https://github.com/valdirmendesgt/valdir-extensions",
+    "bugs": {
+        "url": "https://github.com/valdirmendesgt/valdir-extensions/issues"
+    },
     "extensionPack": [
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
