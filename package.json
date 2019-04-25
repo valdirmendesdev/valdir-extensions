@@ -35,6 +35,7 @@
         "PeterJausovec.vscode-docker",
         "mikestead.dotenv",
         "EditorConfig.EditorConfig",
+        "Dart-Code.flutter",
         "rubbersheep.gi",
         "donjayamanne.githistory",
         "eamodio.gitlens",
